@@ -13,7 +13,7 @@
 
 - 📝 I love documenting my game dev journey through [behind-the-scenes breakdowns and creative experiments](behind-the-scenes breakdowns and creative experiments)
 
-- 💬 Ask me about **Unity development, game design, and turning quirky ideas into playable prototypes**
+- 💬 Ask me about ***Unity development, game design, and turning quirky ideas into playable prototypes***
 
 - 📫 How to reach me **armaanrkhurana2003@gmail.com**
 
