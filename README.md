@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **unique and fun indie game projects, especially in Unity**
 
-- 🤝 I’m open to mentoring or sharing insights on **Unity workflows, prototyping, and game polishing**
+- 🤝 I’m open to mentoring or sharing insight on **Unity workflows, prototyping, and game polishing**
 
 - 👨‍💻 All of my projects are available at [https://armaankhurana.framer.website/](https://armaankhurana.framer.website/)
 
