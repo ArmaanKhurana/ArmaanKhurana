@@ -19,7 +19,7 @@
 
 - 📄 Peek into my quest log — [from pixel-perfect puzzles to open-world adventures I've crafted in Unity](from pixel-perfect puzzles to open-world adventures I've crafted in Unity)
 
--⚡ Fun Fact: I can build a full game prototype in just one weekend—driven by creativity, momentum, and a perfectly calibrated dose of caffeine-fueled determination ☕🎮
+-⚡Fun Fact: I can build a full game prototype in just one weekend—fueled by wild imagination, non-stop jam sessions, and an almost alarming amount of caffeine. Sleep? Optional. Fun? Guaranteed. 🎮☕💥🚀
 
 
 <h3 align="left">Connect with me:</h3>
