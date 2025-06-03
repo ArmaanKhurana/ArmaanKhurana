@@ -19,7 +19,9 @@
 
 - 📄 Peek into my quest log — [from pixel-perfect puzzles to open-world adventures I've crafted in Unity](from pixel-perfect puzzles to open-world adventures I've crafted in Unity)
 
--⚡Fun Fact: I can whip up a full game prototype in just one weekend—driven by bursts of chaotic genius, non-stop dev marathons, and caffeine levels that could launch a rocket. Who needs sleep when imagination’s on overdrive and pixels need taming? 🎮☕🔥🚀
+-⚡Fun Fact: I can crank out a full game prototype in a single weekend—powered by chaotic genius, caffeine-fueled sprints, and a sleep schedule that doesn’t exist. When imagination’s on fire and pixels are misbehaving, I’m in dev-mode beast mode. 🎮☕🔥🚀
+
+
 
 
 <h3 align="left">Connect with me:</h3>
